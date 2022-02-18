@@ -18,6 +18,7 @@ This Services does not uses these “cookies” explicitly. However, the app may
 
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+
 -Your location information will be shared to user(Only when taking a ride) on real-time.
 -Driver app might be transmitting real-time location of driver to user even when app is closed.
 
